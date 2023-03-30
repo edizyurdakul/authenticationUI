@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.OPSC7311ICETASK2" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/violet11</item>
+        <item name="colorPrimaryVariant">@color/violet3</item>
+        <item name="colorOnPrimary">@color/violet12</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/violet3</item>
+        <item name="colorSecondaryVariant">@color/violet4</item>
+        <item name="colorOnSecondary">@color/violet11</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/violet3</item>
+        <item name="android:textColorHint">@color/violet12</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963558119491",
+    "project_id": "opsc7311icetask2",
+    "storage_bucket": "opsc7311icetask2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963558119491:android:f1d4a524ef6118d09b9cf6",
+        "android_client_info": {
+          "package_name": "com.example.opsc7311icetask2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963558119491-uuf448stk8eae8aphfhvstrkg9ouv9bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRkboF45uhneCb2nxEy462pcKXzWSDWVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963558119491-d9c4bidnlim9i40v6feger97u19e9jl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

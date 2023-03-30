@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="@color/violet11" xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape android:shape="rectangle" android:width="366dp"
+        android:height="48dp">
+        <corners android:radius="25dp"/>
+        <solid android:color="@color/violet11"/>
+    </shape>
+</ripple>
+
+
+
+<!--    &lt;!&ndash; Button pressed state &ndash;&gt;-->
+<!--<item android:state_pressed="true">-->
+<!--<shape android:shape="rectangle">-->
+<!--    <corners android:radius="25dp"/>-->
+<!--    <solid android:color="@color/violet1"/>-->
+<!--</shape>-->
+<!--</item>-->
+<!--    &lt;!&ndash; Button default state &ndash;&gt;-->
+<!--<item>-->
+<!--<shape android:shape="rectangle">-->
+<!--    <corners android:radius="999dp"/>-->
+<!--    <solid android:color="@color/violet11"/>-->
+<!--</shape>-->
+<!--</item>-->
